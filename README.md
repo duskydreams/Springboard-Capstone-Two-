@@ -1,0 +1,1 @@
+This repo contains a student project aimed at exploring the factors behind car accidents. It initially began as just exploring what led to an accident happening however it was then expanded upon to predict who was likely to cause an accident before it happens. This model was created based on the California 2025 traffic crash data. 
